@@ -1,7 +1,7 @@
 provider "google" {
  
   project = "veera999"
- // credentials = file("srinu2-14f292a3a4e3.json")
+  credentials = file("veera999-2cdabff084af.json")
   region  = "us-east1"
   
 }
